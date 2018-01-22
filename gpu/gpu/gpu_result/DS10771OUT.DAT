@@ -1,0 +1,42 @@
+
+Interval 771 Time 3.65022e-08 with 6 samples from 3.64738e-08
+Total simulated molecules = 10000001
+Species 1 total = 10000001
+Species 2 total = 0
+Total molecule moves   = 385500038550
+Total collision events = 2912531099
+Species dependent collision numbers in current sample
+252698	0	
+0	0	
+Computation time -386392seconds
+Collision events per second -7537.77
+Molecule moves per secon -997693
+
+Surface quantities
+
+GAINS FROM REACTIONS
+                          Dissoc.     Recomb. Endo. Exch.  Exo. Exch.
+                          SPECIES 1 0 0 0 0
+                          SPECIES 2 0 0 0 0
+
+LOSSES FROM REACTIONS
+                          Dissoc.     Recomb. Endo. Exch.  Exo. Exch.
+                          SPECIES 1 0 0 0 0
+                          SPECIES 2 0 0 0 0
+
+TOTALS
+                        SPECIES 1 GAINS 0 LOSSES 0
+                        SPECIES 2 GAINS 0 LOSSES 0
+
+Flowfield properties 
+6 Samples
+Overall gas
+Cell x coord.      Sample       Number Dens. Density      u velocity   v velocity   w velocity   Trans. Temp. Rot. Temp.   Vib. Temp.    El. Temp.  Temperature  Mach no.     Mols/cell    m.c.t        m.f.p        mcs/mfp        speed      Pressure      TTX         TTY         TTZ   Species Fractions 
+1 1.86096e-05 6e+07 9.67241e+26 51.3798 0.00326044 -0.000159308 -0.000415287 5650.48 5473.68 1675.72 5548.74 788.178 1.81758e-06 1e+07 1.11483e-09 2.15595e-06 0.805027 0.00329064 7.54581e+07 5931.42 9.76446e-11 6.63541e-10 
+Individual molecular species
+Species 1
+Cell x coord.      Sample       Percentage   Species TTx   Species TTy  Species TTz  Trans. Temp.  Rot. Temp.  Vib. Temp.   Spec. Temp  u Diff. Vel. v Diff. Vel. w. Diff. Vel. Elec. Temp.
+1 1.86096e-05 6e+07 1 5931.42 5512.71 5507.31 5650.48 5473.68 1676.72 4994.22 -4.33681e-19 2.71051e-20 0 5548.74 
+Species 2
+Cell x coord.      Sample       Percentage   Species TTx   Species TTy  Species TTz  Trans. Temp.  Rot. Temp.  Vib. Temp.   Spec. Temp  u Diff. Vel. v Diff. Vel. w. Diff. Vel. Elec. Temp.
+1 1.86096e-05 0 0 0 0 0 0 0 0 0 0 0 0 0 

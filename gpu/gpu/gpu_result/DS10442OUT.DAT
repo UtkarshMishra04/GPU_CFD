@@ -1,0 +1,42 @@
+
+Interval 442 Time 2.09261e-08 with 6 samples from 2.08977e-08
+Total simulated molecules = 10000001
+Species 1 total = 10000001
+Species 2 total = 0
+Total molecule moves   = 221000022100
+Total collision events = 1689674099
+Species dependent collision numbers in current sample
+257199	0	
+0	0	
+Computation time 242718seconds
+Collision events per second 6961.46
+Molecule moves per secon 910520
+
+Surface quantities
+
+GAINS FROM REACTIONS
+                          Dissoc.     Recomb. Endo. Exch.  Exo. Exch.
+                          SPECIES 1 0 0 0 0
+                          SPECIES 2 0 0 0 0
+
+LOSSES FROM REACTIONS
+                          Dissoc.     Recomb. Endo. Exch.  Exo. Exch.
+                          SPECIES 1 0 0 0 0
+                          SPECIES 2 0 0 0 0
+
+TOTALS
+                        SPECIES 1 GAINS 0 LOSSES 0
+                        SPECIES 2 GAINS 0 LOSSES 0
+
+Flowfield properties 
+6 Samples
+Overall gas
+Cell x coord.      Sample       Number Dens. Density      u velocity   v velocity   w velocity   Trans. Temp. Rot. Temp.   Vib. Temp.    El. Temp.  Temperature  Mach no.     Mols/cell    m.c.t        m.f.p        mcs/mfp        speed      Pressure      TTX         TTY         TTZ   Species Fractions 
+1 1.86096e-05 6e+07 9.67241e+26 51.3798 -0.451251 -1.7845e-05 -5.35355e-06 6209.66 6025.37 2186.17 6281.46 829.623 0.000242943 1e+07 1.09479e-09 2.21947e-06 0.677433 0.451251 8.29256e+07 6372.26 1.2252e-12 1.10269e-13 
+Individual molecular species
+Species 1
+Cell x coord.      Sample       Percentage   Species TTx   Species TTy  Species TTz  Trans. Temp.  Rot. Temp.  Vib. Temp.   Spec. Temp  u Diff. Vel. v Diff. Vel. w. Diff. Vel. Elec. Temp.
+1 1.86096e-05 6e+07 1 6372.26 6128.61 6128.11 6209.66 6025.37 2187.17 5459.96 0 3.38813e-21 8.47033e-22 6281.46 
+Species 2
+Cell x coord.      Sample       Percentage   Species TTx   Species TTy  Species TTz  Trans. Temp.  Rot. Temp.  Vib. Temp.   Spec. Temp  u Diff. Vel. v Diff. Vel. w. Diff. Vel. Elec. Temp.
+1 1.86096e-05 0 0 0 0 0 0 0 0 0 0 0 0 0 

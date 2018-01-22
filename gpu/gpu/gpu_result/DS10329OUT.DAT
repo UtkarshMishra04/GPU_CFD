@@ -1,0 +1,42 @@
+
+Interval 329 Time 1.55771e-08 with 5 samples from 1.55525e-08
+Total simulated molecules = 10000001
+Species 1 total = 10000001
+Species 2 total = 0
+Total molecule moves   = 164510016451
+Total collision events = 1262320388
+Species dependent collision numbers in current sample
+225642	0	
+0	0	
+Computation time -1.11296e+06seconds
+Collision events per second -1134.2
+Molecule moves per secon -147813
+
+Surface quantities
+
+GAINS FROM REACTIONS
+                          Dissoc.     Recomb. Endo. Exch.  Exo. Exch.
+                          SPECIES 1 0 0 0 0
+                          SPECIES 2 0 0 0 0
+
+LOSSES FROM REACTIONS
+                          Dissoc.     Recomb. Endo. Exch.  Exo. Exch.
+                          SPECIES 1 0 0 0 0
+                          SPECIES 2 0 0 0 0
+
+TOTALS
+                        SPECIES 1 GAINS 0 LOSSES 0
+                        SPECIES 2 GAINS 0 LOSSES 0
+
+Flowfield properties 
+5 Samples
+Overall gas
+Cell x coord.      Sample       Number Dens. Density      u velocity   v velocity   w velocity   Trans. Temp. Rot. Temp.   Vib. Temp.    El. Temp.  Temperature  Mach no.     Mols/cell    m.c.t        m.f.p        mcs/mfp        speed      Pressure      TTX         TTY         TTZ   Species Fractions 
+1 1.86096e-05 5e+07 6.71695e+26 35.6804 0.434109 -1.7845e-05 -5.35355e-06 6797.53 6298.47 2593.56 6384.98 871.741 0.000227998 1e+07 1.08163e-09 2.29423e-06 0.612133 0.434109 6.3039e+07 7399.95 1.2252e-12 1.10269e-13 
+Individual molecular species
+Species 1
+Cell x coord.      Sample       Percentage   Species TTx   Species TTy  Species TTz  Trans. Temp.  Rot. Temp.  Vib. Temp.   Spec. Temp  u Diff. Vel. v Diff. Vel. w. Diff. Vel. Elec. Temp.
+1 1.86096e-05 5e+07 1 7399.95 6490.27 6502.36 6797.53 6298.47 2594.56 5833.21 0 0 8.47033e-22 6384.98 
+Species 2
+Cell x coord.      Sample       Percentage   Species TTx   Species TTy  Species TTz  Trans. Temp.  Rot. Temp.  Vib. Temp.   Spec. Temp  u Diff. Vel. v Diff. Vel. w. Diff. Vel. Elec. Temp.
+1 1.86096e-05 0 0 0 0 0 0 0 0 0 0 0 0 0 

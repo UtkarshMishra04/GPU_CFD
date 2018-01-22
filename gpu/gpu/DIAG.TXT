@@ -1,0 +1,74 @@
+File DIAG.TXT has been opened
+Starting a new run
+Starting a new run with ICLASS, ISF 0 1
+Char. Diss temp of species 1 is 59377.5
+SPECIES 2 2 RECOMBINE TO 1
+TEMPERATURE 5000
+CDF level dissoc 0 0.0585595
+CDF level dissoc 1 0.115647
+CDF level dissoc 2 0.171247
+CDF level dissoc 3 0.225347
+CDF level dissoc 4 0.277929
+CDF level dissoc 5 0.328981
+CDF level dissoc 6 0.378481
+CDF level dissoc 7 0.426411
+CDF level dissoc 8 0.472752
+CDF level dissoc 9 0.517484
+CDF level dissoc 10 0.560584
+CDF level dissoc 11 0.60203
+CDF level dissoc 12 0.641796
+CDF level dissoc 13 0.679855
+CDF level dissoc 14 0.716179
+CDF level dissoc 15 0.750734
+CDF level dissoc 16 0.783487
+CDF level dissoc 17 0.8144
+CDF level dissoc 18 0.843429
+CDF level dissoc 19 0.870527
+CDF level dissoc 20 0.895639
+CDF level dissoc 21 0.918704
+CDF level dissoc 22 0.939647
+CDF level dissoc 23 0.95838
+CDF level dissoc 24 0.974793
+CDF level dissoc 25 0.988737
+CDF level dissoc 26 1
+TEMPERATURE 15000
+CDF level dissoc 0 0.0541298
+CDF level dissoc 1 0.10707
+CDF level dissoc 2 0.158809
+CDF level dissoc 3 0.209338
+CDF level dissoc 4 0.258645
+CDF level dissoc 5 0.306718
+CDF level dissoc 6 0.353545
+CDF level dissoc 7 0.399112
+CDF level dissoc 8 0.443408
+CDF level dissoc 9 0.486416
+CDF level dissoc 10 0.528122
+CDF level dissoc 11 0.56851
+CDF level dissoc 12 0.607562
+CDF level dissoc 13 0.645261
+CDF level dissoc 14 0.681587
+CDF level dissoc 15 0.716518
+CDF level dissoc 16 0.750033
+CDF level dissoc 17 0.782106
+CDF level dissoc 18 0.81271
+CDF level dissoc 19 0.841815
+CDF level dissoc 20 0.869387
+CDF level dissoc 21 0.89539
+CDF level dissoc 22 0.919779
+CDF level dissoc 23 0.942505
+CDF level dissoc 24 0.963506
+CDF level dissoc 25 0.982706
+CDF level dissoc 26 1
+The number of divisions is 1
+The number of sampling cells is 1
+The number of collision cells is 666666
+FNUM is 1e+14
+VMPM = 3949.02
+Collision time in the stream is 4.7344e-11Mean free path in the stream is 2.01248e-08
+The initial value of the overall time step is 9.46881e-13
+DMOM 0x7fffffffe1a0
+DENG 2.24621
+10000001  Mols. at sample  1
+Total Energy =  7.621302941904250397502379e-12	10000001
+Restart files written
+  TIME       9.468805915e-13  NM  10000001  COLLS  0                   Collision_time : 0

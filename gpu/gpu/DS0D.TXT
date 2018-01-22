@@ -1,0 +1,12 @@
+Data summary for program DSMC
+The n in version number n.m is 1
+The m in version number n.m is 1
+The approximate number of megabytes for the calculation is 1000
+4
+Real oxygen 
+The gas properties are:- 
+The stream number density is 2.68678e+25
+The stream temperature is 15000
+The stream vibrational and electronic temperature is 15000
+ The fraction of species 1 is 1
+ The fraction of species 2 is 0

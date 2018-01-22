@@ -1,0 +1,7 @@
+1. dsmcgpu.cu
+2. compilation: nvcc -std=c++11 dsmcgpu.cu
+3. a five dimensional array is giving compiling error SPREX: need to be fixed
+4. Memory allocation warning at run time
+5. Suggestions: given in the thesis
+6. GPU to be implemented in move and collision functions
+
